@@ -4,5 +4,6 @@ sal
 borequerones
 pimientos
 tomate
+tocino
 
-Utensilios: sartén, fuego.
+Utensilios: sartÃ©n, fuego.
