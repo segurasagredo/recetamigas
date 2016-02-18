@@ -3,5 +3,6 @@ aceite
 sal
 borequerones
 pimientos
+tomate
 
 Utensilios: sartén, fuego.
